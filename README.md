@@ -17,6 +17,20 @@ This project uses **OOP principles** and cool **design patterns**.
 
 ## 📁 Project Structure
 
+Themed-Tic-Tac-Toe/
+├── App.java
+├── GameManager.java
+├── Player.java
+├── TicTacToe.java
+├── Theme.java
+├── ThemeFactory.java
+├── ThemeObserver.java
+├── AnimalTheme.java
+├── WeatherTheme.java
+├── README.md
+└── assets/
+    ├── animal-theme.png
+    └── weather-theme.png
 
 
 ---
