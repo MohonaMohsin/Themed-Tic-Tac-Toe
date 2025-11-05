@@ -16,20 +16,7 @@ This project uses **OOP principles** and cool **design patterns**.
 ---
 
 ## 📁 Project Structure
-Themed-Tic-Tac-Toe/
-├── App.java
-├── GameManager.java
-├── Player.java
-├── TicTacToe.java
-├── Theme.java
-├── ThemeFactory.java
-├── ThemeObserver.java
-├── AnimalTheme.java
-├── WeatherTheme.java
-├── README.md
-└── assets/
-├── animal-theme.png
-└── weather-theme.png
+
 
 
 ---
@@ -43,25 +30,6 @@ Themed-Tic-Tac-Toe/
 ![Weather Theme Screenshot](assets/weather-theme.png)
 
 ---
-
-##   How to Run
-
-1. Open **Terminal / Command Prompt** in this folder.  
-2. Compile all Java files:
-
-```bash
-javac *.java
-
-3. Run the game:
-
-java App
-
----
-  Technologies Used
-
-Java
-
-Swing (GUI)
 
 Object-Oriented Programming
 
