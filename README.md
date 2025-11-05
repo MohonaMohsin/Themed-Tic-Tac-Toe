@@ -57,10 +57,10 @@ Follow these steps to run Themed Tic-Tac-Toe:
        javac *.java
       
 
-4. **Run the game with:**
+3. **Run the game with:**
  java App
 
-5. The Tic-Tac-Toe window should open.
+4. The Tic-Tac-Toe window should open.
 
      - Click on Switch Theme to change between Animal 🐱/🐰 and Weather 🌞/🌧️ themes.
      - Click Restart to start a new game.
