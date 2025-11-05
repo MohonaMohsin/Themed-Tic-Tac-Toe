@@ -45,5 +45,12 @@ Themed-Tic-Tac-Toe/
 ![Weather Theme Screenshot](assets/weather-theme.png)
 
 ---
+## 🌟 Technologies Used
+
+- **Java** – programming language for core logic  
+- **Swing** – for building the graphical user interface (GUI)  
+- **Object-Oriented Programming (OOP)** – classes, objects, encapsulation  
+- **Design Patterns** – to make code modular, reusable, and maintainable  
+
 
 
