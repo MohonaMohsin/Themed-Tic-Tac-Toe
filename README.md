@@ -53,7 +53,7 @@ Follow these steps to run Themed Tic-Tac-Toe:
 
 2. **Compile all Java files** by running:
 
-```bash
+bash
 javac *.java
 
 3. **Run the game with:**
