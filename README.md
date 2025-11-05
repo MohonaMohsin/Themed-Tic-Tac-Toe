@@ -53,16 +53,16 @@ Follow these steps to run Themed Tic-Tac-Toe:
 
 2. **Compile all Java files** by running:
 
-bash
-javac *.java
+        bash
+       javac *.java
 
 3. **Run the game with:**
  java App
 
 4. The Tic-Tac-Toe window should open.
 
-  - Click on Switch Theme to change between Animal 🐱/🐰 and Weather 🌞/🌧️ themes.
-  - Click Restart to start a new game.
+     - Click on Switch Theme to change between Animal 🐱/🐰 and Weather 🌞/🌧️ themes.
+     - Click Restart to start a new game.
 
 ---
 ## Technologies Used
