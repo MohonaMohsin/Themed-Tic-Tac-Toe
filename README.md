@@ -31,6 +31,4 @@ This project uses **OOP principles** and cool **design patterns**.
 
 ---
 
-Object-Oriented Programming
 
-Design Patterns: Singleton, Factory, Observer, Builder
