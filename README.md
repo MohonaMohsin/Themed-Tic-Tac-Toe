@@ -52,10 +52,10 @@ Follow these steps to run Themed Tic-Tac-Toe:
 1. **Open Terminal / Git Bash / Command Prompt** in the project folder `Themed-Tic-Tac-Toe`.
 
 2. **Compile all Java files** by running:
-       ```
+      
        bash
        javac *.java
-      ```
+      
 
 4. **Run the game with:**
  java App
