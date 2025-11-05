@@ -17,7 +17,7 @@ This project uses **OOP principles** and cool **design patterns**.
 
 ## 📁 Project Structure
 
-'''
+```
 Themed-Tic-Tac-Toe/
 ├── App.java
 ├── GameManager.java
@@ -32,7 +32,7 @@ Themed-Tic-Tac-Toe/
 └── assets/
     ├── animal-theme.png
     └── weather-theme.png
-'''
+```
 
 ---
 
