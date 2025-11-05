@@ -1,4 +1,4 @@
-# 🎮 Themed Tic-Tac-Toe
+# Themed Tic-Tac-Toe
 
 A **Java Swing Tic Tac Toe game** with fun **theme switching**!  
 Play as **Cat 🐱 vs Bunny 🐰** or **Sunny 🌞 vs Rainy 🌧️**.  
