@@ -61,9 +61,9 @@ javac *.java
 
 4. The Tic-Tac-Toe window should open.
 
-Click on Switch Theme to change between Animal 🐱/🐰 and Weather 🌞/🌧️ themes.
+  - Click on Switch Theme to change between Animal 🐱/🐰 and Weather 🌞/🌧️ themes.
+  - Click Restart to start a new game.
 
-Click Restart to start a new game.
 ---
 ## Technologies Used
 
